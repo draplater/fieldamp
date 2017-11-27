@@ -1,0 +1,13 @@
+// ==UserScript==
+// @id             iitc-two-vertex-multiple-field@Draplater
+// @name           IITC plugin: Multiple Field Calculator
+// @category       Keys
+// @version        0.0.0.1
+// @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
+// @description    Calaulate multiple field
+// @include        https://www.ingress.com/intel*
+// @include        http://www.ingress.com/intel*
+// @match          https://www.ingress.com/intel*
+// @match          http://www.ingress.com/intel*
+// @grant          none
+// ==/UserScript==
